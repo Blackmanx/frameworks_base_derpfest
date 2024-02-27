@@ -62,7 +62,8 @@ public class PixelPropsUtils {
             "com.google.android.wallpaper.effects",
             "com.google.pixel.livewallpaper",
             "com.nhs.online.nhsonline",
-            "com.netflix.mediaclient"
+            "com.netflix.mediaclient",
+            "com.realme.link"
     };
 
     // Packages to Spoof as Pixel 5a
